@@ -28,13 +28,13 @@ Frontend
 - HTML
 - CSS
 - JavaScript
-- React.js (Learning)
+- React.js 
 
 Backend & Database
 
-- Node.js (Learning)
-- Express.js (Learning)
-- MongoDB (Learning)
+- Node.js 
+- Express.js 
+- MongoDB 
 - MySQL
 
 Tools
